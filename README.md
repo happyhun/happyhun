@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I'm Younghun 👋
 
-<!--
-**happyhun/happyhun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Go, distributed systems, and observability.
 
-Here are some ideas to get you started:
+I'm currently interested in:
+- Distributed backend systems in Go
+- WebSocket and high-throughput messaging
+- Performance engineering and load testing
+- Observability with OpenTelemetry, Prometheus, Loki, Tempo, and Pyroscope
+- Contributing to Go open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured project
+
+**Go Chat MSA** — Distributed chat backend built with Go, gRPC, WebSocket, and Kubernetes.
+
+- Tested with 10,000 concurrent WebSocket connections
+- ~2K msg/s ingress and ~200K msg/s fan-out
+- P99 client message latency up to 43ms
+- Consistent-hashing based WebSocket routing
+- OpenTelemetry + Grafana observability stack
+- Performance bottlenecks identified and improved with k6 profiling/load tests
