@@ -1,6 +1,6 @@
 ## Hi, I'm Younghun 👋
 
-Backend developer focused on Go, distributed systems, and observability.
+Backend engineer focused on Go, distributed systems, and observability.
 
 I'm currently interested in:
 - Distributed backend systems in Go
