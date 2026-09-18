@@ -4,7 +4,7 @@ Backend Engineer interested in **Go, distributed systems, and observability**.
 
 I enjoy building backend systems, finding bottlenecks through measurement, and improving them with a focus on reliability.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](www.linkedin.com/in/younghun-hwang-85161525a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/younghun-hwang-85161525a)
 [![Velog](https://img.shields.io/badge/Velog-20C997?logo=velog\&logoColor=white)](https://velog.io/@younghun/posts)
 
 ## Featured Project
