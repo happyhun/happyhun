@@ -23,6 +23,10 @@ A distributed chat backend built with **Go, gRPC, WebSocket, and Kubernetes**.
 
 → See the repository for architecture, performance reports, and design trade-offs.
 
+## Open Source
+
+* **Buf** — Reported and reproduced a **Buf Language Server crash** triggered by files without a trailing newline. The report led to an upstream fix: [issue #676](https://github.com/bufbuild/vscode-buf/issues/676) → [PR #4693](https://github.com/bufbuild/buf/pull/4693)
+
 ## Currently Exploring
 
 * Go open-source contribution
